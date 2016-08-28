@@ -34,7 +34,7 @@
     "method-override": "^2.1.2"
   },
   "optionalDependencies": {
-    "mdns2": "2.3.3"
+    "mdns2": "https://github.com/agnat/node_mdns"
   },
   "devDependencies": {
     "grunt-browserify": "^2.0",
