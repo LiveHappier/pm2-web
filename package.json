@@ -34,7 +34,7 @@
     "method-override": "^2.1.2"
   },
   "optionalDependencies": {
-    "mdns2": "^2.1.0"
+    "mdns2": "2.3.3"
   },
   "devDependencies": {
     "grunt-browserify": "^2.0",
